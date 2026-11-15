@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='utf-8'?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://rscexperience.github.io/movelory/app-it.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://rscexperience.github.io/movelory/app.html" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://rscexperience.github.io/movelory/app-it.html" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://rscexperience.github.io/movelory/app.html" />
+  </url>
+  <url>
+    <loc>https://rscexperience.github.io/movelory/app.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://rscexperience.github.io/movelory/app.html" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://rscexperience.github.io/movelory/app-it.html" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://rscexperience.github.io/movelory/app.html" />
+  </url>
+  <url>
+    <loc>https://rscexperience.github.io/movelory/cookies-it.html</loc>
+    <xhtml:link rel="alternate" hreflang="it" href="https://rscexperience.github.io/movelory/cookies-it.html" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://rscexperience.github.io/movelory/cookies.html" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://rscexperience.github.io/movelory/cookies.html" />
+  </url>
+  <url>
+    <loc>https://rscexperience.github.io/movelory/cookies.html</loc>
+    <xhtml:link rel="alternate" hreflang="it" href="https://rscexperience.github.io/movelory/cookies-it.html" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://rscexperience.github.io/movelory/cookies.html" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://rscexperience.github.io/movelory/cookies.html" />
+  </url>
+  <url>
+    <loc>https://rscexperience.github.io/movelory/privacy-it.html</loc>
+    <xhtml:link rel="alternate" hreflang="it" href="https://rscexperience.github.io/movelory/privacy-it.html" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://rscexperience.github.io/movelory/privacy.html" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://rscexperience.github.io/movelory/privacy.html" />
+  </url>
+  <url>
+    <loc>https://rscexperience.github.io/movelory/privacy.html</loc>
+    <xhtml:link rel="alternate" hreflang="it" href="https://rscexperience.github.io/movelory/privacy-it.html" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://rscexperience.github.io/movelory/privacy.html" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://rscexperience.github.io/movelory/privacy.html" />
+  </url>
+  <url>
+    <loc>https://rscexperience.github.io/movelory/terms-it.html</loc>
+    <xhtml:link rel="alternate" hreflang="it" href="https://rscexperience.github.io/movelory/terms-it.html" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://rscexperience.github.io/movelory/terms.html" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://rscexperience.github.io/movelory/terms.html" />
+  </url>
+  <url>
+    <loc>https://rscexperience.github.io/movelory/terms.html</loc>
+    <xhtml:link rel="alternate" hreflang="it" href="https://rscexperience.github.io/movelory/terms-it.html" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://rscexperience.github.io/movelory/terms.html" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://rscexperience.github.io/movelory/terms.html" />
+  </url>
+</urlset>
